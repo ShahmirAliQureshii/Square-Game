@@ -64,7 +64,7 @@ This game has **four square boxes**, each with unique interactivity:
 
 ## 📸 Screenshot
 
-<img src"squaregame.png"></img>
+<img src"/squaregame.png"><img/>
 
 ---
 
